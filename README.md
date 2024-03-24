@@ -38,6 +38,7 @@ Elbow method suggested to use '4' as the value of K in both instances.
 
 The explained variance ratio for PCA model is '0.8950'
 
+<a href="Output/ElbowPlots.html" target="_blank">Elbow Plots</a>
 [Elbow Plots](Output/ElbowPlots.html)
 
 [CryptoCurrencies Clusters](Output/CryptoCurrenciesClusters.html)
