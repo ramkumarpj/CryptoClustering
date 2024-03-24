@@ -30,11 +30,19 @@ For this challenge, Python and unsupervised learning will be used to predict if 
 
 * Explained variance ratio is retrieved from the PCA Model to determine how much information can be attributed to each principal component.
 
-* K Means Model steps outlined above is used for the PCA data provided by the PCA Model.
+* K Means Model steps outlined above is used for PCA data provided by the PCA Model.
 
-### Results
+### Summary
 
-Elbow method suggested to use '4' as the value of K in both instances 
+Elbow method suggested to use '4' as the value of K in both instances. 
 
+The explained variance ratio for PCA model is '0.8950'
+
+[Elbow Plots](Output/ElbowPlots.html)
+
+[CryptoCurrencies Clusters](Output/CryptoCurrenciesClusters.html)
+
+
+After analysing the plots, we can see that both methods predicted 4 different clusters fairly well. Few points in cluster 0 and cluster 2 became more closely located when fewer features were used. Cluster 1 was charted more distinctively when using fewer features. 
 
 
