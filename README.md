@@ -38,11 +38,6 @@ Elbow method suggested to use '4' as the value of K in both instances.
 
 The explained variance ratio for PCA model is '0.8950'
 
-[Elbow Plots](Output/ElbowPlots.html){:target="_blank"}
-
-[CryptoCurrencies Clusters](Output/CryptoCurrenciesClusters.html)
-
-
 After analysing the plots, we can see that both methods predicted 4 different clusters fairly well. Few points in cluster 0 and cluster 2 became more closely located when fewer features were used. Cluster 1 was charted more distinctively when using fewer features. 
 
 
