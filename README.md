@@ -41,3 +41,21 @@ The explained variance ratio for PCA model is '0.8950'
 After analysing the plots, we can see that both methods predicted 4 different clusters fairly well. Few points in cluster 0 and cluster 2 became more closely located when fewer features were used. Cluster 1 was charted more distinctively when using fewer features. 
 
 
+## Files
+
+* Jupyter Notebook - source/Crypto_Clustering.ipynb
+* Dataset - Resources/crypto_market_data.csv
+* Elbow Plots - Output/ElbowPlots.html
+* CryptoCurrencies Clusters - Output/CryptoCurrenciesClusters.html
+
+## Run Instructions
+
+* Launch Jupyter Notebook jupyter notebook
+* Jupyter Notebook is opened in a browser
+* Open "Credit_Risk/credit_risk_classification.ipynb" file using Jupyter Notebook
+* Click on 'Cell > Run All' to run
+
+## Disclaimer
+This repo was published for educational purpose only. Copyright 2024 edX Boot Camps LLC. All rights reserved.
+
+
